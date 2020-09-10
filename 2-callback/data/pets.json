@@ -1,0 +1,10 @@
+{
+  "pets": [
+    {
+      "species": "fish"
+    },
+    {
+      "species": "cat"
+    }
+  ]
+}
